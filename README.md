@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Arpan Karki 👋</h1>
-<p align="center">🚀 Embracing the Journey: One Line of Code at a Time</p>
+
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400" style="border-radius: 10px;">
